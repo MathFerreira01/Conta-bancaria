@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.js": "/Conta-bancaria/static/js/main.263bb130.chunk.js",
+    "main.js.map": "/Conta-bancaria/static/js/main.263bb130.chunk.js.map",
+    "runtime-main.js": "/Conta-bancaria/static/js/runtime-main.bcb0f7bc.js",
+    "runtime-main.js.map": "/Conta-bancaria/static/js/runtime-main.bcb0f7bc.js.map",
+    "static/js/2.c2eef6a1.chunk.js": "/Conta-bancaria/static/js/2.c2eef6a1.chunk.js",
+    "static/js/2.c2eef6a1.chunk.js.map": "/Conta-bancaria/static/js/2.c2eef6a1.chunk.js.map",
+    "index.html": "/Conta-bancaria/index.html",
+    "precache-manifest.a589622c91d0e179ca4a99be895507d3.js": "/Conta-bancaria/precache-manifest.a589622c91d0e179ca4a99be895507d3.js",
+    "service-worker.js": "/Conta-bancaria/service-worker.js",
+    "static/js/2.c2eef6a1.chunk.js.LICENSE.txt": "/Conta-bancaria/static/js/2.c2eef6a1.chunk.js.LICENSE.txt",
+    "static/media/alimentacao.svg": "/Conta-bancaria/static/media/alimentacao.44dbaa78.svg",
+    "static/media/bank_logo.svg": "/Conta-bancaria/static/media/bank_logo.f3a2bff4.svg",
+    "static/media/dinheiro.svg": "/Conta-bancaria/static/media/dinheiro.b97c300b.svg",
+    "static/media/olho.svg": "/Conta-bancaria/static/media/olho.acd41ceb.svg",
+    "static/media/outros.svg": "/Conta-bancaria/static/media/outros.17e95f3c.svg",
+    "static/media/privado.svg": "/Conta-bancaria/static/media/privado.134d853a.svg",
+    "static/media/saude.svg": "/Conta-bancaria/static/media/saude.605ef9ca.svg",
+    "static/media/themeOff.svg": "/Conta-bancaria/static/media/themeOff.0981f5bf.svg",
+    "static/media/themeOn.svg": "/Conta-bancaria/static/media/themeOn.75ea2814.svg",
+    "static/media/transporte.svg": "/Conta-bancaria/static/media/transporte.15a4ed73.svg",
+    "static/media/utilidades.svg": "/Conta-bancaria/static/media/utilidades.59035811.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bcb0f7bc.js",
+    "static/js/2.c2eef6a1.chunk.js",
+    "static/js/main.263bb130.chunk.js"
+  ]
+}
